@@ -43,12 +43,12 @@ No installation needed. Just click and play!
 
 ## 📁 Project Structure
 
-###Slot-Machine-Low-Volatility/
-###│
-###├── low_volatility.ipynb # Python code + full analysis
-###├── DEMO_dark_fortune_low_volatility.html # Interactive HTML demo
-###├── Software_Design_Document.ipynb # Full SDD (20+ sections)
-###└── README.md # This file
+Slot-Machine-Low-Volatility/
+│
+├── low_volatility.ipynb # Python code + full analysis
+├── DEMO_dark_fortune_low_volatility.html # Interactive HTML demo
+├── Software_Design_Document.ipynb # Full SDD (20+ sections)
+└── README.md # This file
 
 
 ---
