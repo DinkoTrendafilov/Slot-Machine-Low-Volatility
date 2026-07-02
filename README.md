@@ -4,6 +4,16 @@ A mathematically validated low volatility slot machine with **5 reels**, **4 row
 
 ---
 
+## 🎮 Play the Live Demo
+
+**Try the slot machine directly in your browser:**
+
+👉 **[Play Dark Fortune Low Volatility](https://dinkotrendafilov.github.io/Slot-Machine-Low-Volatility/DEMO_dark_fortune_low_volatility.html)**
+
+No installation needed. Just click and play!
+
+---
+
 ## 📊 Key Metrics
 
 | Metric | Value |
@@ -32,14 +42,12 @@ A mathematically validated low volatility slot machine with **5 reels**, **4 row
 ---
 
 ## 📁 Project Structure
-
 Slot-Machine-Low-Volatility/
 │
 ├── low_volatility.ipynb # Python code + full analysis
-├── DEMO_low_volatility.html # Interactive HTML demo
+├── DEMO_dark_fortune_low_volatility.html # Interactive HTML demo
 ├── Software_Design_Document.ipynb # Full SDD (20+ sections)
 └── README.md # This file
-
 
 
 ---
@@ -107,7 +115,7 @@ Slot-Machine-Low-Volatility/
 3. Enter RTP coefficient (e.g., 95) and number of iterations (e.g., 10,000,000)
 
 ### HTML Demo
-1. Open `DEMO_low_volatility.html` in any modern browser
+1. Open `DEMO_dark_fortune_low_volatility.html` in any modern browser
 2. No server required — works locally
 3. Adjust bet, spin, and observe real-time results
 
@@ -145,9 +153,5 @@ MIT License
 - [ ] Performance Optimization (vectorized NumPy)
 
 ---
-
-## 🎰 Try It Yourself
-
-The HTML demo is included in this repository. Open `DEMO_low_volatility.html` in your browser and start spinning!
 
 **Happy spinning!** 🍀
